@@ -1,0 +1,19 @@
+# bankruptcycost.com
+
+> Complete breakdown of bankruptcy costs in 2024-2026: filing fees ($278-$1,738), attorney fees ($1,000-$5,000+), and hidden costs. Learn what each chapter costs and how to reduce expenses.
+
+## About
+
+bankruptcycost.com provides a comprehensive breakdown of the costs associated with filing bankruptcy, covering all chapters. The site includes current filing fees by chapter, typical attorney fee ranges, credit counseling and debtor education course costs, and hidden expenses that many guides overlook. Content is designed to help consumers understand the full financial picture before filing.
+
+## Key Pages
+
+- [Home](https://bankruptcycost.com/): Complete cost breakdown by chapter -- filing fees, attorney fees, course fees, and tips to reduce expenses
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "bankruptcycost.com, Open Bankruptcy Project (2026)."
